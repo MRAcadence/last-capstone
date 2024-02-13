@@ -12,7 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Software_2_MS
 {
-    internal class Data
+    public class Data
     {
         private static string server = "127.0.0.1";
         private static string dbname = "client_schedule";

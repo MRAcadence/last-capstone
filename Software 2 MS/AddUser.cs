@@ -73,7 +73,7 @@ namespace Software_2_MS
             ConPsswrdTB.ForeColor = Color.Blue;
         }
         //makes sure that any feilds that aree filled out are filled out with the only alllowable characters
-        private bool IsAllowedCharacter(char character)
+        public bool IsAllowedCharacter(char character)
         {
             return char.IsLetter(character) || char.IsWhiteSpace(character) || char.IsControl(character);
         }
