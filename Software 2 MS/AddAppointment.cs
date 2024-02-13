@@ -207,7 +207,7 @@ namespace Software_2_MS
             this.Close();
         }
 
-        //enables the previously disabled for user interaction
+        //enables the previously disabled fields for user interaction
         private void CustCB_SelectedIndexChanged(object sender, EventArgs e)
         {
             Console.WriteLine("Selected value changed");
