@@ -7,7 +7,7 @@ namespace UNT
     [TestClass]
     public class UnitTest1
     {
-        // unit test script
+        // unit test script for the unit test project 
         [TestMethod]
         public void TestUsernamePasword()
         {
