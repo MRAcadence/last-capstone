@@ -12,16 +12,16 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Software_2_MS
 {
-    internal class Data
+    public class Data
     {
-        private static string server = "127.0.0.1";
-        private static string dbname = "client_schedule";
+        private static string server = "database-2.cbgy0ky0q8vn.us-east-2.rds.amazonaws.com";
+        private static string dbname = "database-2";
         //private static string servername = "Local instance MySQL80";
         private static string password = "Mm65001302";
         private static int userID;
         private static string userName = "root";
         //public static string conString = "SERVER=" + server + ";" + "DATABASE=" + dbname + ";" + "Uid=" + userName + ";" + "Pwd=" + password + ";" + "SslMode=None;AllowPublicKeyRetrieval=True;";
-        public static string conString = "Server=127.0.0.1;Port=3306;Database=software_2;userID=root;password=Mm65001302;SslMode=Preferred;AllowPublicKeyRetrieval=True;";
+        public static string conString = "Server=database-2.cbgy0ky0q8vn.us-east-2.rds.amazonaws.com;Port=3306;Database=software_2;userID=admin;password=65001302;SslMode=Preferred;AllowPublicKeyRetrieval=True;";
         //gets the connection string for the database
         public static string getConString()
         {

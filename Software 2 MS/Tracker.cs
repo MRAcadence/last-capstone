@@ -64,7 +64,7 @@ namespace Software_2_MS
                 string record = string.Format("Login time = {0}, userName = {1}", kv.Key, kv.Value);
                 StringBuilder sb = new StringBuilder();
                 sb.Append(record + Environment.NewLine);
-                File.AppendAllText(Application.StartupPath + "_access_records.txt", sb.ToString());
+                //File.AppendAllText(Application.StartupPath + "_access_records.txt", sb.ToString());
                 sb.Clear();
             }
         }
