@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Software_2_MS.AddAppointment">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABICAAABIAAAiRAAAyAQAAAgCMIIACAAAAAAA=</HashCode>
+      <FileName>AddAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.AddCustomer">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAJMiAEABAAEAiAQAgTAQAAEiCIMAAAACCAQAA=</HashCode>
+      <FileName>AddCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.AddUser">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAiAEABAAAAiBAAATAQAAAgCoAAAAAAABQAA=</HashCode>
+      <FileName>AddUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Data">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAABAoQAJSAAAByECAAAKCHAAAAQAQgogAwoIgUQAAY=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.DeleteAppointment">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HACAAAAAsCAAABIAAACBAEAyAUAgAgGEIIAChAAAAAA=</HashCode>
+      <FileName>DeleteAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.DeleteCustomer">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIoiAEIBAgAAKBQEgTAQAAEgCIMAACAiSAAAA=</HashCode>
+      <FileName>DeleteCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.DeleteUser">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgCBAAhAAgACgAEAWAQAAAgCAAAAIAAAAAAA=</HashCode>
+      <FileName>DeleteUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Login">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAAAACAAABhAAgCAAAATBoAEAQAAAAQAAAABAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Main">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAYEIAAweABgTIBCZiADwQSAgAAAACAAiBAAQkECCE=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ModifyAppointment">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERCIEAAAICAAABIAAACBAAAzAVAAAAGAIIACBEQAQQA=</HashCode>
+      <FileName>ModifyAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ModifyCusteromer">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAIEACIMiAEIBAAgACBQAgTAQAAEiCIMAACAiSAQAA=</HashCode>
+      <FileName>ModifyCusteromer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ModifyUser">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACBEQBAAgAigAAAXAQAAAgCoAAAIAAABwAA=</HashCode>
+      <FileName>ModifyUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Program">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ReportConsultant">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAIAAAAAACAABBAQAACAAAASAQAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>ReportConsultant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ReportCustomer">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAACAAABAAAACQAAASQQAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>ReportCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.ReportMonth">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEQoXACAAABAAAASAoAASAQAAACCEACgAAAAAAAA=</HashCode>
+      <FileName>ReportMonth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Tracker">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAEUAAA=</HashCode>
+      <FileName>Tracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Properties.Resources">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_2_MS.Properties.Settings">
+    <Position X="2.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

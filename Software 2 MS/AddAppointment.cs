@@ -199,7 +199,7 @@ namespace Software_2_MS
             }
         }
 
-        //cancel button click to exit this form and go back to the home page / main form
+        //cancel button click to exit this form and go back to the dashboard / main form
         private void CancelBT_Click(object sender, EventArgs e)
         {
             Form main = new Main();
@@ -207,7 +207,7 @@ namespace Software_2_MS
             this.Close();
         }
 
-        //enables the previously disabled for user interaction
+        //enables the previously disabled fields for user interaction
         private void CustCB_SelectedIndexChanged(object sender, EventArgs e)
         {
             Console.WriteLine("Selected value changed");

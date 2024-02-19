@@ -34,7 +34,7 @@ namespace Software_2_MS
         }
 
         //uses the empty check method to make sure that there are no blank text boxes left on the form
-        private bool isEmpty()
+        public bool isEmpty()
         {
             foreach (Control t in this.Controls)
             {
